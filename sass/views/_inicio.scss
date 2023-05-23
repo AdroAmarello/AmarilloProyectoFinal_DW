@@ -69,7 +69,7 @@
 }
 .tyc_blgImg {
     padding: 0 10px;
-    @include displayImg;
+    @include displayImg;    
 
     img {
         height: 200px;
@@ -79,6 +79,7 @@
         width: 100%;
         height: 250px;
         margin-bottom: 15px;
+        
     }
 
     
